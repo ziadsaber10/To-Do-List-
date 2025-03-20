@@ -1,0 +1,24 @@
+.todo-container {
+    border-radius: 15px;
+}
+
+#taskInput {
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+.btn-primary {
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-group-item .delete-btn {
+    background: none;
+    border: none;
+    color: red;
+    font-size: 1.2rem;
+}
